@@ -261,7 +261,7 @@ body {
     border: 6px solid var(--color-black);
 }
 .content .right .image video {
-    width: 60%;
+    width: 80%;
     object-fit: cover;
 
 }
