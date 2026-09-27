@@ -250,7 +250,7 @@ body {
         transform: translateY(0);
     }
 }
-.content .right .image video {
+.content .right .image {
     position: relative;
     width: 400px;
     height: 400px;
